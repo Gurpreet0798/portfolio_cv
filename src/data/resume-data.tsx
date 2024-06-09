@@ -59,12 +59,12 @@ export const RESUME_DATA = {
       start: "2022",
       end: "2026",
     },
-    {
-      school: "St. Francis Academy, Kala-Amb, Haryana.",
-      // degree: "Bachelor's Degree in Computer SCience and Engineering.",
-      start: "2007",
-      end: "2022",
-    },
+    // {
+    //   school: "St. Francis Academy, Kala-Amb, Haryana.",
+    //   // degree: "Bachelor's Degree in Computer SCience and Engineering.",
+    //   start: "2007",
+    //   end: "2022",
+    // },
   ],
   work: [
     {
