@@ -29,7 +29,7 @@ export const RESUME_DATA = {
   summary:
     "As a Full Stack Engineer, I specialize in taking products from concept to launch. I excel in leading teams and creating environments where individuals perform at their best. Currently, I work mostly with TypeScript, JavaScript, React, Node.js, and React-Native. Currently I am working on all these Tech-Stacks and building very nice and interactive products.",
   avatarUrl: "https://avatars.githubusercontent.com/u/118358763?s=400&u=52bb670ac203ac25c482f6ca52c105e9a5186b4f&v=4",
-  // personalWebsiteUrl: "https://jarocki.me",
+  personalWebsiteUrl: " ",
 
   contact: {
     email: "gurpreetkaur07988@gmail.com",
@@ -59,12 +59,12 @@ export const RESUME_DATA = {
       start: "2022",
       end: "2026",
     },
-    // {
-    //   school: "St. Francis Academy, Kala-Amb, Haryana.",
-    //   // degree: "Bachelor's Degree in Computer SCience and Engineering.",
-    //   start: "2007",
-    //   end: "2022",
-    // },
+    {
+      school: "St. Francis Academy, Kala-Amb, Haryana.",
+      degree: "High School",
+      start: "2007",
+      end: "2022",
+    },
   ],
   work: [
     {
@@ -146,8 +146,8 @@ export const RESUME_DATA = {
         "This project is a WhatsApp bot built using Twilio and the Reddit API, designed to send development memes using linuxmemes directly to your WhatsApp account. With just a simple message, you can receive a fresh dose of humor and developement fun facts right in your chats.",
       // logo: ParabolLogo,
       link: {
-        label: "https://github.com/The-Xiting-Way/whatsappDevBot",
-        // href: "https://parabol.co/",
+        label: "github.com",
+        href: "https://github.com/The-Xiting-Way/whatsappDevBot",
       },
     },
     {
@@ -164,7 +164,7 @@ export const RESUME_DATA = {
         "DevXClub is where you can learn and grow. We have a wide range of resources and tutorials to help you get started with your journey. We have a wide range of projects and hackathons to help you get started with your journey. We have a wide range of resources and tutorials to help you get started with your journey.",
       // logo: EvercastLogo,
       link: {
-        label: "https://github.com/Gurpreet0798/DevX",
+        label: "vercel.com",
         href: "https://devxclub.vercel.app/",
       },
     },
@@ -184,8 +184,8 @@ export const RESUME_DATA = {
       description: "This project is a comprehensive real estate website built using React for the front end and Firebase for authentication. It offers a wide range of features to facilitate the buying, selling, and renting of properties. This platform aims to provide an intuitive and user-friendly experience for users, including homebuyers, renters, real estate agents, and property owners.",
       // logo: ConsultlyLogo,
       link: {
-        label: "https://github.com/Gurpreet0798/Real-Estate",
-        // href: "https://consultly.com/",
+        label: "github.com",
+        href: "https://github.com/Gurpreet0798/Real-Estate",
       },
     },
     {
@@ -194,10 +194,10 @@ export const RESUME_DATA = {
       description:
         "A online pizza ordering food app with many functionalities in frontend and data storage in backend and delivery options also.",
       // logo: MonitoLogo,
-      // link: {
-      //   label: "monito.dev",
-      //   href: "https://monito.dev/",
-      // },
+      link: {
+        label: " ",
+        href: " ",
+      },
     },
     {
       title: "Personal Profile",
@@ -206,8 +206,8 @@ export const RESUME_DATA = {
         "Personal website and Portfolio.",
       // logo: JarockiMeLogo,
       link: {
-        label: "https://github.com/Gurpreet0798/Gurpreet0798",
-        // href: "https://jarocki.me/",
+        label: "github.com",
+        href: "https://github.com/Gurpreet0798/Gurpreet0798",
       },
     },
     // {
