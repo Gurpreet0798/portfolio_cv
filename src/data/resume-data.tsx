@@ -25,10 +25,11 @@ export const RESUME_DATA = {
   location: "Sadhaura, Haryana, India",
   locationLink: "https://www.google.com/maps/place/Sadhaura",
   about:
-    "Detail-oriented Full Stack Engineer dedicated to building high-quality products.",
+    "Motivated pre-final year Computer Science student with a keen focus on full-stack development and a strong foundation in data structures and algorithms.",
   summary:
     "As a Full Stack Engineer, I specialize in taking products from concept to launch. I excel in leading teams and creating environments where individuals perform at their best. Currently, I work mostly with TypeScript, JavaScript, React, Node.js, and React-Native. Currently I am working on all these Tech-Stacks and building very nice and interactive products.",
-  avatarUrl: "https://avatars.githubusercontent.com/u/118358763?s=400&u=52bb670ac203ac25c482f6ca52c105e9a5186b4f&v=4",
+  avatarUrl:
+    "https://avatars.githubusercontent.com/u/118358763?s=400&u=52bb670ac203ac25c482f6ca52c105e9a5186b4f&v=4",
   personalWebsiteUrl: " ",
 
   contact: {
@@ -42,12 +43,12 @@ export const RESUME_DATA = {
       },
       {
         name: "LinkedIn",
-        url: "https://www.linkedin.com/in/gurpreet-kaur-a9bb45253/",
+        url: "https://www.linkedin.com/in/gurpreetkaur07988/",
         icon: LinkedInIcon,
       },
       {
         name: "X",
-        url: "https://x.com/gurpreet07988",
+        url: "https://x.com/gurpreet_0798",
         icon: XIcon,
       },
     ],
@@ -70,7 +71,7 @@ export const RESUME_DATA = {
     {
       company: "The Xiting Way",
       link: "https://www.thexitingway.com/",
-      badges: ["Intern"],
+      badges: ["Full-Time"],
       title: "DevRel",
       logo: ConsultlyLogo,
       start: "2024",
@@ -78,17 +79,17 @@ export const RESUME_DATA = {
       description:
         "Leading to manage the relationship between development and client side. Technologies: React, TypeScript, Node.js, React-Native, Javascript.",
     },
-    // {
-    //   company: "Parabol",
-    //   link: "https://parabol.co",
-    //   badges: ["Remote"],
-    //   title: "Senior Full Stack Developer",
-    //   logo: ParabolLogo,
-    //   start: "2021",
-    //   end: "2024",
-    //   description:
-    //     "Implemented new features, led a squad, improved code delivery process, and initiated migration from Emotion to Tailwind CSS. Technologies: React, TypeScript, GraphQL",
-    // },
+    {
+      company: "Chitkara ACM Student Chapter",
+      link: "https://chitkara.acm.org/",
+      badges: ["Remote"],
+      title: "Web Master",
+      logo: ParabolLogo,
+      start: "2024",
+      end: "Present",
+      description:
+        "Led a team to build ACM's official website using React, Kubernetes, and Cloud-hosted services, improving performance by 40%",
+    },
     // {
     //   company: "Clevertech",
     //   link: "https://clevertech.biz",
@@ -125,8 +126,15 @@ export const RESUME_DATA = {
   skills: [
     "JavaScript",
     "TypeScript",
-    "React/Next.js/Remix",
+    "Java",
+    "React/Next.js",
     "Node.js",
+    "Express.js",
+    "AWS",
+    "DevOps",
+    "Kubernetes",
+    "Docker",
+    "Git",
     "React-Native",
     "Bash",
     "Linux",
@@ -181,7 +189,8 @@ export const RESUME_DATA = {
         // "GraphQL",
         // "WebRTC",
       ],
-      description: "This project is a comprehensive real estate website built using React for the front end and Firebase for authentication. It offers a wide range of features to facilitate the buying, selling, and renting of properties. This platform aims to provide an intuitive and user-friendly experience for users, including homebuyers, renters, real estate agents, and property owners.",
+      description:
+        "This project is a comprehensive real estate website built using React for the front end and Firebase for authentication. It offers a wide range of features to facilitate the buying, selling, and renting of properties. This platform aims to provide an intuitive and user-friendly experience for users, including homebuyers, renters, real estate agents, and property owners.",
       // logo: ConsultlyLogo,
       link: {
         label: "github.com",
@@ -190,7 +199,13 @@ export const RESUME_DATA = {
     },
     {
       title: "Pizza Ordering App",
-      techStack: ["Side Project", "TypeScript", "Next.js", "SupaBase", "Node JS"],
+      techStack: [
+        "Side Project",
+        "TypeScript",
+        "Next.js",
+        "SupaBase",
+        "Node JS",
+      ],
       description:
         "A online pizza ordering food app with many functionalities in frontend and data storage in backend and delivery options also.",
       // logo: MonitoLogo,
@@ -202,25 +217,24 @@ export const RESUME_DATA = {
     {
       title: "Personal Profile",
       techStack: ["Side Project", "Next.js"],
-      description:
-        "Personal website and Portfolio.",
+      description: "Personal website and Portfolio.",
       // logo: JarockiMeLogo,
       link: {
         label: "github.com",
         href: "https://github.com/Gurpreet0798/Gurpreet0798",
       },
     },
-    // {
-    //   title: "Minimal",
-    //   techStack: ["Side Project", "Next.js", "Puppeteer"],
-    //   description:
-    //     "Minimalist calendars, habit trackers, and planners generator",
-    //   logo: Minimal,
-    //   link: {
-    //     label: "useminimal.com",
-    //     href: "https://useminimal.com/",
-    //   },
-    // },
+    {
+      title: "Utopia",
+      techStack: ["React-Native", "Next.js", ""],
+      description:
+        "Minimalist calendars, habit trackers, and planners generator",
+      logo: Minimal,
+      link: {
+        label: "useminimal.com",
+        href: "https://useminimal.com/",
+      },
+    },
     // {
     //   title: "Barepapers",
     //   techStack: ["Side Project", "Next.js", "Puppeteer"],
