@@ -198,20 +198,21 @@ export const RESUME_DATA = {
       },
     },
     {
-      title: "Pizza Ordering App",
+      title: "Online Education App",
       techStack: [
-        "Side Project",
-        "TypeScript",
-        "Next.js",
+        "App",
+        "Express JS",
+        "React-Native",
         "SupaBase",
         "Node JS",
+        "Stripe",
       ],
       description:
-        "A online pizza ordering food app with many functionalities in frontend and data storage in backend and delivery options also.",
+        "A Online Education App with many functionalities in frontend and data storage in backend and pay for course options also.",
       // logo: MonitoLogo,
       link: {
-        label: " ",
-        href: " ",
+        label: "github.com",
+        href: "https://github.com/Gurpreet0798/onlineEducationApp",
       },
     },
     {
@@ -226,13 +227,13 @@ export const RESUME_DATA = {
     },
     {
       title: "Utopia",
-      techStack: ["React-Native", "Next.js", ""],
+      techStack: ["React-Native", "MongoDB", "NodeJS", "Web-Sockets"],
       description:
-        "Minimalist calendars, habit trackers, and planners generator",
-      logo: Minimal,
+        "Utopia is an anonymous real-time chatting application developed using React Native and deployed on the Play Store.",
+      //logo: Minimal,
       link: {
-        label: "useminimal.com",
-        href: "https://useminimal.com/",
+        label: "github.com",
+        href: "https://github.com/Aryainguz/utopia",
       },
     },
     // {
